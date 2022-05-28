@@ -1,0 +1,19 @@
+Multipurpose Wireframe
+
+Clean Responsive Wireframe Landing Page. This template help you to realize ideas faster. Perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
++ Multipurpose Wireframe
++ Desktop and Mobile version
++ Free Google font
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
++ https://fonts.google.com/specimen/DM+Sans
+
+Icons
++ https://iconmonstr.com/
